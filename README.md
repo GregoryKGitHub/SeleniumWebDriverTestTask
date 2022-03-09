@@ -1,6 +1,6 @@
 # SeleniumWebDriverTestTask
 Exercises:
-1) Selenium WebDriver (UI)
+Selenium WebDriver (UI)
 
 A) Go to http://demowebshop.tricentis.com/
 In the categories menu open Computer -> Desktops.
