@@ -1,6 +1,7 @@
 # SeleniumWebDriverTestTask
 Exercises:
 1) Selenium WebDriver (UI)
+
 A) Go to http://demowebshop.tricentis.com/
 In the categories menu open Computer -> Desktops.
 Set Display to "4" per page and check only 4 items displayed after that.
